@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ImantasPrecas
-- - 🌱 I’m Junior Front-End Developer
+-  🌱 I’m Junior Front-End Developer
 - 👀 I’m interested in Web development, Agile and scuba diving :D
 - 💞️ I’m looking to collaborate on any projekt to learn working in a Team and increase my skills.
 - 📫 How to reach me:
